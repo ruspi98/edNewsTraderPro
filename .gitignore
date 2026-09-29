@@ -1,0 +1,10 @@
+# Compilation logs
+compile.log
+*.log
+
+# OS & Editor temporary files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
